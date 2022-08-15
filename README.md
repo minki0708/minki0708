@@ -1,4 +1,6 @@
 ### Hi there 👋
+#F7DF1E
+#0769AD
 
 <!--
 **minki0708/minki0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
