@@ -1,7 +1,7 @@
 ### Hi there 👋
 #F7DF1E
 #0769AD
-<img src="https://img.shields.io/badge/#0769AD?style=flat-square&logo=JS&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/JAVA-0769AD?style=flat-square&logo=JS&logoColor=yellow"/>
 
 <!--
 **minki0708/minki0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
